@@ -1,0 +1,39 @@
+.border{
+	border-width:0.1%;
+  	border-style:solid;
+  	border-color:black;
+  	text-align:justify;
+	padding-left:1%;
+	padding-top:1%;
+	padding-bottom:1%;
+	padding-right:1%;
+}
+
+h1{
+	padding-top:3.5%;
+	padding-bottom:3.5%;
+	text-align:center;
+	color:white;
+	background-color:black;
+}
+
+.floating_left{
+	float:left;
+	width:5.25%;
+}
+
+.navigationBar{
+}
+
+.socialMediaBar{
+	padding-top:2%;
+}
+
+.index_Main{
+	background-color:grey;
+	width:84.5%;
+	min-height:500px;
+	float:left;
+	margin-left: 4%;
+	
+}
