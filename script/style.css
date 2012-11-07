@@ -22,6 +22,10 @@ body {
   	border-top-color:#eb7646;
 }
 
+.menu {
+    width: 50%;
+}
+
 h1{
 	padding-top:3.5%;
 	padding-bottom:3.5%;
@@ -48,7 +52,7 @@ a:hover {
 
 .floating_left{
 	float:left;
-	width:8%;
+	width:20%;
 }
 
 .navigationBar{
@@ -59,7 +63,7 @@ a:hover {
 }
 
 .index_Main{
-	width:75%;
+	width:72%;
 	min-height:500px;
 	float:left;
 	margin-left: 4%;
