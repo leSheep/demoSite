@@ -23,7 +23,7 @@ Kommt am 26. Januar zur Wiesbaden Pelzfrei Demo und zeigt, dass eine andere, ein
 <p>
 Infos über Pelz
 Infos über Naturausbeutung
-Infos über den Zusammenhang von Tierausbeutung und anderen Ausbeutungsformen
+Infos über den Zusammenhang von Tierausbeutung und anderen Ausbeutungsformen.
 Infos zu Veganismus
 </p>
 
