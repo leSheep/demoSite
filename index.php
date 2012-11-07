@@ -7,7 +7,7 @@
 	<title>Wiesbaden Pelzfrei</title>
 </head>
 <body>
-<h1>BANNER    WIESBADEN PELZFREI 2013   BANNER</h1>
+<h1> <img src="banner.png" /> </h1>
 <div class="floating_left border">
 <div class="navigationBar">
     <a href="mainpage.php">STARTSEITE</a>
@@ -22,6 +22,7 @@
 <div class="socialMediaBar">
 	<p>social plugins</p>
 </div></div>
+
 <div class="index_Main border_top">
 
 <?php
