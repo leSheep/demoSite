@@ -7,22 +7,22 @@
 	<title>Wiesbaden Pelzfrei</title>
 </head>
 <body>
-<h1>WIESBADEN PELZFREI 2013</h1>
+<h1>BANNER    WIESBADEN PELZFREI 2013   BANNER</h1>
 <div class="floating_left border">
 <div class="navigationBar">
-    <a href="mainpage.php">Startseite</a>
-	<a href="infos.php">infos</a>
-	<a href="staende.php">stände</a>
-	<a href="abendgestaltung.php">party</a>
-  	<a href="sekten.php">sekten</a>
-  	<a href="anfahrt.php">anfahrt</a>
-  	<a href="contact.php">contact</a>
-  	<a href="downloads.php">downloads</a>
+    <a href="mainpage.php">STARTSEITE</a>
+	<a href="infos.php">INFOS</a>
+	<a href="staende.php">STÄNDE</a>
+	<a href="abendgestaltung.php">PARTY</a>
+  	<a href="sekten.php">SEKTEN</a>
+  	<a href="anfahrt.php">ANFAHRT</a>
+  	<a href="contact.php">KONTAKT</a>
+  	<a href="downloads.php">DOWNLOADS</a>
 </div>
 <div class="socialMediaBar">
 	<p>social plugins</p>
 </div></div>
-<div class="index_Main">
+<div class="index_Main border_top">
 
 <?php
     if(isset($selectedSite)) {
