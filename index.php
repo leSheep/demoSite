@@ -17,7 +17,7 @@
 			<li><a href="infos.php">INFOS</a></li>
 			<li><a href="staende.php">STÄNDE</a></li>
 			<li><a href="abendgestaltung.php">PARTY</a></li>
-	  		<li><a href="selbstverstaendnis.php">SEKTEN</a></li>
+	  		<li><a href="selbstverstaendnis.php">SELBSTVERSTÄNDNIS</a></li>
 	  		<li><a href="anfahrt.php">ANFAHRT</a></li>
 	  		<li><a href="contact.php">KONTAKT</a></li>
 	  		<li><a href="downloads.php">DOWNLOADS</a></li>
