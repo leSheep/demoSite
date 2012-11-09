@@ -1,5 +1,4 @@
 body {
-    font-weight:bold; 
     font-family:arial,helvetica; 
     font-size:10pt;
     color:#000000;
@@ -63,7 +62,7 @@ a:hover {
 }
 
 .index_Main{
-	width:72%;
+	width:60%;
 	min-height:500px;
 	float:left;
 	margin-left: 4%;
