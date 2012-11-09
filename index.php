@@ -23,7 +23,7 @@
 	  		<li><a href="downloads.php">DOWNLOADS</a></li>
 		</ul>
 	</div>
-<div class="socialMediaBar">
+<div class="socialMediaBar" style="margin-left: 70px;">
 	<p>social plugins</p>
 </div></div>
 
