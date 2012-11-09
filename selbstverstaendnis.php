@@ -5,7 +5,7 @@ if(!isset($selectedSite)) {
 } else {
 ?>
 
-<h1> Sekten </h1>
+<h1> Selbstverständnis </h1>
 <p> Wieso wir Sekten wie universelles Leben ablehnen</p>
 <p> bla bla bla </p>
 
