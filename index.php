@@ -1,6 +1,6 @@
+<!-- äöüß -->
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-<!-- äöüß -->
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<link rel="stylesheet" type="text/css" href="script/style.css">
@@ -11,16 +11,18 @@
 
 <div class="floating_left">
 <div class="menu border">
-<div class="navigationBar">
-    <a href="mainpage.php">STARTSEITE</a> <br />
-	<a href="infos.php">INFOS</a> <br />
-	<a href="staende.php">STÄNDE</a> <br />
-	<a href="abendgestaltung.php">PARTY</a> <br />
-  	<a href="sekten.php">SEKTEN</a> <br />
-  	<a href="anfahrt.php">ANFAHRT</a> <br />
-  	<a href="contact.php">KONTAKT</a> <br />
-  	<a href="downloads.php">DOWNLOADS</a> <br />
-</div>
+	<div>
+	    <ul>
+			<li><a href="mainpage.php">STARTSEITE</a></li>
+			<li><a href="infos.php">INFOS</a></li>
+			<li><a href="staende.php">STÄNDE</a></li>
+			<li><a href="abendgestaltung.php">PARTY</a></li>
+	  		<li><a href="sekten.php">SEKTEN</a></li>
+	  		<li><a href="anfahrt.php">ANFAHRT</a></li>
+	  		<li><a href="contact.php">KONTAKT</a></li>
+	  		<li><a href="downloads.php">DOWNLOADS</a></li>
+		</ul>
+	</div>
 <div class="socialMediaBar">
 	<p>social plugins</p>
 </div></div>
