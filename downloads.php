@@ -6,8 +6,16 @@ if(!isset($selectedSite)) {
 ?>
 
 <h1> Downloads </h1>
-<p> Flyer </p>
-<p> Banner </p>
+
+<div style=""><p> weitere Demos/Kampagnen/Aktionen: </p></div>
+<div style="padding-top: 4px;">
+<a href="http://www.maxmaracampaign.net/en/" target="_blank"><img src="http://www.koeln-pelzfrei.de/2009/img/banner_maxmara.gif" alt="" height="50" width="220" border="1"></a>
+</div>
+
+<div style="padding-top: 4px;"><a href="http://offensive-gegen-die-pelzindustrie.net/" target="_blank">
+<img src="http://www.koeln-pelzfrei.de/2007/ogpi_banner.jpg" alt="" height="40" width="220" border="1"></a>
+</div>
+
 
 <?php
 }
