@@ -27,7 +27,7 @@
 <div class="floating_left">
 <div class="menu border">
 	<div>
-	    <ul>
+	    <ul style="margin-left:-20px;">
 			<li><a href="mainpage.php">STARTSEITE</a></li>
 			<li><a href="infos.php">INFOS</a></li>
 			<li><a href="staende.php">STÄNDE</a></li>
@@ -38,8 +38,7 @@
 	  		<li><a href="downloads.php">DOWNLOADS</a></li>
 		</ul>
 	</div>
-<div class="socialMediaBar" style="margin-left: 70px;">
-	<p>social plugins</p>
+<div class="socialMediaBar" style="margin-left: 20px;">
 	<div class="fb-like" data-href="http://wpf.veganseite.de/2013/" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false" data-font="arial"></div>
 	
 </div></div>
