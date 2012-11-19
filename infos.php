@@ -28,6 +28,8 @@ Mehr Infos über...
 <li> ...Pelz 
 <ul>
 <li><a href="http://offensive-gegen-die-pelzindustrie.net"> Offensive gegen die Pelzindustrie </a></li>
+<li><a href="http://www.maxmaracampaign.net/"> Kampagne gegen Max Mara </a></li>
+
 </ul>
 </li>
 
