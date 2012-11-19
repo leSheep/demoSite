@@ -24,7 +24,7 @@ Es wird dort ein Konzert mit XXX und YYY sowie veganen Leckereien geben. Nutzt d
 </iframe></p>
 
 <p>
-<h2 style="color:black;">Schlafplätze</h2>
+<h2 style="text-align:left">Schlafplätze</h2>
 <p style="width: 35%;">Es gibt mehrere kostenlose Schlafmöglichkeiten in Wiesbaden und Umgebung. Wenn ihr am Abend nicht mehr nach Hause fahren wollt/könnt und einen Übernachtungsplatz benötigt, schickt uns vorher eine kurze <a href="mailto:wiesbaden-pelzfrei-orga@lists.riseup.net">E-Mail</a> damit wir bescheid wissen und entsprechend planen können.</p></p>
 </div>
 
