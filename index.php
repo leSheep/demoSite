@@ -7,7 +7,7 @@
 	<title>Wiesbaden Pelzfrei</title>
 </head>
 <body>
-<h1> <img src="banner.png" /> </h1>
+<p style="padding-top:30px;"> <img src="banner.png" /> </p>
 
 <div class="floating_left">
 <div class="menu border">
