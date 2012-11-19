@@ -8,6 +8,7 @@
 </head>
 <body>
 
+
 <!-- Facebook plugin -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -19,7 +20,9 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 <!-- Facebook plugin end -->
 
-<h1> <img src="banner.png" /> </h1>
+
+<p style="padding-top:30px;"> <img src="banner.png" /> </p>
+
 
 <div class="floating_left">
 <div class="menu border">
