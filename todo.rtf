@@ -3,71 +3,14 @@
 sascha:
  - texte
 	- infos, selbstverständnis, downloadbereich (banner) beschreibungen //du hast sie eingefügt, schreib was dazu =P
- - socialPlugins
+ - socialPlugins (g+, twitter, linked)
  - infos ergänzen (links)
 
 michael:
  - google-input zentrieren, bahn-pläne raussuchen (aus verschiedenen richtungen)
- - bilder sabot anfragen, einpflegen
- - kontaktfeld einpflegen (contact.php sonst fertig)
+ - bilder sabot einpflegen
+
 
 alle:
  - bild mit überschritenstrich übereinstimmenlassen (zentrierart, bild soll seitenbreite füllen)
- - oberes seitenlayout mit bild sollte weniger platz beanspruchen
  
-___________________________________________________________________________________________________________
-
-pseudo-kontaktfeld; sollte gehen muss aber noch eingepflegt werden
-
-<?php 
-
-<?php 
-$Mail = ""; 
-$Betreff = ""; 
-$Name = ""; 
-$Homepage = ""; 
-?> 
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//DE" 
-  "http://www.w3.org/TR/html4/loose.dtd"> 
-<html> 
-<head>  
-  <title>kontaktblabla</title> 
-</head> 
-<body> 
-<?php 
-?> 
-<h1>Kontaktformular</h1> 
-<form action="<?php print $_SERVER['PHP_SELF']; ?>" method="POST"> 
-<table style="width:400px; background-color:#ccc; color:#123456;"> 
-<tr><td>Name</td><td><input type="text" name="Name"></td></tr> 
-<tr><td>E-Mail</td><td><input type="text" name="Mail"></td></tr> 
-<tr><td>Ihre Nachricht an mich</td><td><textarea name="Eintrag" cols="70" rows="20"></textarea></td></tr> 
-<tr><td><input type="submit" value="abschicken" name="abschicken"></td><td><input type="reset" value="zur&uuml;cksetzen" name="reset"></td></tr> 
-</table> 
-</form></p> 
-<?php 
-  if(isset($_POST['abschicken'])){ 
-  if(empty($_POST['Name']) OR empty($_POST['Mail']) OR empty($_POST['Eintrag'])){ 
-      print "Bitte f&uuml;llen Sie alle Felder korrekt aus!\n"; 
-  } else{ 
-      $Abs_Mail = $_POST['Mail'];  
-      $Abs_Name = $_POST['Name']; 
-      $Abs_Nachricht = $_POST['Eintrag']; 
-      $Nachricht = "Hallo $Name!\n\n $Abs_Name hat dir auf deiner Website per Kontaktformular folgenden Text geschickt:\n _______\n$Abs_Nachricht\n_______\n"; 
-  
-      $senden = mail($Mail, $Betreff, $Nachricht,"From: $Abs_Mail"); 
-  
-      if($senden){ 
-        print "Ihre Mail wurde erfolgreich an mich versandt. VIELEN DANK!"; 
-      } else { 
-        print "Ihre Mail konnte leider nicht an mich versandt werden. Probieren Sie es sp&auml;ter noch einmal"; 
-      }    
-    } 
-  } else{
-    print "Hier k&ouml;nnen Sie mir ein Feedback &uuml;ber diese Website mailen!\n"; 
-  } 
-?> 
-</body> 
-</html> 
-?>
