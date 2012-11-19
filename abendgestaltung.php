@@ -10,7 +10,7 @@ if(!isset($selectedSite)) {
 <p>Nach der Demo könnt ihr euch auf der Soliparty danach im Sabot aufwärmen.
 Es wird dort ein Konzert mit XXX und YYY sowie veganen Leckereien geben. Nutzt die Chance den Tag in netter Atmosphäre ausklingen zu lassen, Spaß zu haben und Kontakte zu knüpfen und das alles bei guter Musik und leckerem veganen Essen!</p>
 
-<p> Das Sabot ist ca. 1,5 km zu Fuß vom Wiesbadener Hauptbahnhof entfernt - Adresse: Dotzheimerstraße 37 (Eingang Zimmermannstraße) </p>
+<p> Das Sabot ist ca. 1,5 km zu Fuß vom Wiesbadener Hauptbahnhof entfernt.</p>
 
 <div style="padding-top:45px;">
 <p style="float:right;">
