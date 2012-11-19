@@ -21,10 +21,41 @@ Wenn wir die Probleme in unserer Welt lösen möchten, muss der Respekt vor Lebe
 Kommt am 26. Januar zur Wiesbaden Pelzfrei Demo und zeigt, dass eine andere, eine vegane Welt möglich ist!
 </p>
 <p>
-Infos über Pelz
-Infos über Naturausbeutung
-Infos über den Zusammenhang von Tierausbeutung und anderen Ausbeutungsformen.
-Infos zu Veganismus
+
+Mehr Infos über...
+<ul>
+
+<li> ...Pelz 
+<ul>
+<li><a href="http://offensive-gegen-die-pelzindustrie.net"> Offensive gegen die Pelzindustrie </a></li>
+</ul>
+</li>
+
+<li> ...Naturausbeutung 
+<ul>
+<li> <a href="http://www.youtube.com/watch?v=jqxENMKaeCU"> Dokumentation: HOME - Dokumentation über die Ausbeutung der Natur </a> </li>
+<li> <a href="http://www.youtube.com/watch?v=mqT82oGeax0"> Dokumentation: The Superior Human? </a> </li>
+<li> <a href="http://www.youtube.com/watch?v=JUQb99UA5Rs"> Video: Vortrag von Steve Best "Everything You Know About Homo Sapiens is Wrong" </a> <li>
+</ul>
+</li>
+
+<li> ...den Zusammenhang von Tierausbeutung und anderen Ausbeutungsformen.
+<ul>
+<li><a href="http://www.tierbefreiung-hamburg.org/texte"> Texte der Tiebefreiung Hamburg </a></li>
+<li><a href="http://www.youtube.com/watch?v=TT52ZOKP9TQ"> Video: Vortrag von Steve Best "Veganism: The War We Cannot Lose" </a> </li>
+<li> <a href="http://www.tierbefreier.de/tierbefreiung/"> Tierrechtsmagazin Tierbefreiung </a> </li>
+</ul>
+</li>
+
+<li> ...Veganismus
+<ul> 
+<li> <a href="http://vegankit.com/"> Vegan Starter Kit </a> </li>
+<li> <a href="http://www.youtube.com/watch?v=rM4He247-Dg"> Video: Philip Wollen - Animals Should Be Off the Menu</a> </li>
+<li> <a href="http://vimeo.com/15849273"> Video: Making the Connection </a> </li>
+<li> <a href="http://www.youtube.com/watch?v=7vWbV9FPo_Q"> Video: Melanie Joy - Carnism: The Psychology of Eating Meat </a> </li>
+</ul>
+</li> 
+</ul>
 </p>
 
 
