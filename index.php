@@ -7,6 +7,18 @@
 	<title>Wiesbaden Pelzfrei</title>
 </head>
 <body>
+
+<!-- Facebook plugin -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Facebook plugin end -->
+
 <h1> <img src="banner.png" /> </h1>
 
 <div class="floating_left">
@@ -25,6 +37,8 @@
 	</div>
 <div class="socialMediaBar" style="margin-left: 70px;">
 	<p>social plugins</p>
+	<div class="fb-like" data-href="http://wpf.veganseite.de/2013/" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false" data-font="arial"></div>
+	
 </div></div>
 
 </div>
