@@ -4,6 +4,10 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<link rel="stylesheet" type="text/css" href="script/style.css">
+	
+	<link rel="stylesheet" type="text/css" href="slideshow/engine1/style.css" />
+	<script type="text/javascript" src="slideshow/engine1/jquery.js"></script>
+	
 	<title>Wiesbaden Pelzfrei</title>
 </head>
 <body>
