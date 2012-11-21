@@ -38,7 +38,7 @@ $Name = "WiesbadenPelzFrei-OrgaTeam =)";
     <li><a href="http://www.frankfurt-vegan.de">Frankfurt Vegan</a></li>
     <li><a href="http://www.die-tierfreunde.de">Die Tierfreunde e.V.</a></li>
    </ul>
-<p>Wenn ihr Fragen zur Demo habt, schickt bitte eine <a href="mailto:wiesbaden-pelzfrei-orga@lists.riseup.net">E-Mail</a> oder nutzt das Kontaktfeld. Für Fragen aller Art sowie Feedback sind wir jederzeit dankbar.</p>
+<p>Für Nachrichten an uns schreibt einfach eine <a href="mailto:wiesbaden-pelzfrei-orga@lists.riseup.net">E-Mail</a> oder nutzt das Kontaktfeld. Wir sind für Fragen oder Feedback jederzeit dankbar!</p>
 
 <?php 
 ?> 
