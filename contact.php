@@ -6,7 +6,7 @@ if(!isset($selectedSite)) {
 ?>
 <?php 
 $Mail = "michaelbernard89@gmail.com"; 
-$Betreff = "neue Nachrichten per Kontaktfeld!"; 
+$Betreff = "WPF: kontaktfeld"; 
 $Name = "WiesbadenPelzFrei-OrgaTeam =)"; 
 //$Homepage = ""; 
 ?>
