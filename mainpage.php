@@ -6,8 +6,8 @@ if(!isset($selectedSite)) {
 ?>
 
 <h1> 
-	<p>Samstag, 26.1.13 um 12:00!</p> 
-	<p>Treffpunkt: Hauptbahnhof - Infostände ab 10 Uhr</p>
+	<p>Samstag, 26.1.13 um 13:00!</p> 
+	<p>Treffpunkt: Hauptbahnhof - Infostände ab 10:30 Uhr</p>
 	
 </h1>
 
