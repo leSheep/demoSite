@@ -7,7 +7,7 @@ if(!isset($selectedSite)) {
 <h1> Anfahrt </h1>
 
 <p>
-	Treffpunkt und Start der Demo ist der Hauptbahnhof in Wiesbaden. Zufahrt, ob mit Zug, Auto oder zu Fuß kann per Routenplaner einfach gesichert werden.
+Treffpunkt und Start der Demo ist der Hauptbahnhofvorplatz in Wiesbaden. Zufahrt, ob mit Zug, Auto oder zu Fuß kann per Routenplaner einfach gesichert werden. Das nächstgelegene Parkhaus ist das im Lilien Carré (<a href="http://www.lilien-carre.de/Parken.php"> Website des Parkhauses </a>) - kostenlose Parkplätze sind nicht direkt in der Nähe verfügbar, da müsst ihr schon so in 10-15 Minuten Laufentfernung parken.
 </p>	
 
 <p style="float:right;">
