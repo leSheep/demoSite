@@ -43,7 +43,7 @@ a {
     text-decoration:none;    
 }
 
-a:hover {
+li a:hover {
     border-left-width:0.1%;
   	border-left-style:solid;
   	border-left-color:#eb7646;

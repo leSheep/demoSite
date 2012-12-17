@@ -25,7 +25,7 @@
 <!-- Facebook plugin end -->
 
 
-<center><p style="padding-top:30px;padding-bottom:10px;"> <img src="wpf_banner_big.png"/> </p></center>
+<center><a href="http://wpf.veganseite.de/"><p style="padding-top:30px;padding-bottom:10px;"> <img src="wpf_banner_big.png"/> </p></a></center>
 
 
 <div class="floating_left">
