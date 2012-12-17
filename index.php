@@ -29,7 +29,7 @@
 
 
 <div class="floating_left">
-<div class="menu border">
+<div class="border">
 	<div>
 	    <ul style="margin-left:-20px;">
 			<li><a href="mainpage.php">STARTSEITE</a></li>
@@ -57,7 +57,6 @@
 	
 	
 </div></div>
-
 </div>
 <div class="index_Main border_top">
 
