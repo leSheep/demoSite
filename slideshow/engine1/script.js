@@ -8,7 +8,7 @@
 // Obfuscated by Javascript Obfuscator
 // http://javascript-source.com
 //***********************************************
-function ws_basic_linear(c,a,b){var d=jQuery;var e=d("<div></div>").css({position:"absolute",display:"none","z-index":2,width:"200%",height:"100%"}).appendTo(b);this.go=function(f,i){e.stop(1,1);var g=(!!((f-i+1)%a.length)^c.revers?"left":"right");d(a[i]).clone().css({position:"absolute",left:"auto",right:"auto",top:0,width:"50%"}).appendTo(e).css(g,0);d(a[f]).clone().css({position:"absolute",left:"auto",right:"auto",top:0,width:"50%"}).appendTo(e).css(g,"50%").show();e.css({left:"auto",right:"auto",top:0}).css(g,0).show();var h={};h[g]="-100%";e.animate(h,c.duration,"easeInOutExpo",function(){b.find("ul").css({left:-f+"00%"});d(this).hide().html("")});return f}};// -----------------------------------------------------------------------------------
+function ws_stack(d,a,b){var e=jQuery;var c=e("li",b);this.go=function(k,h,n,m){var g=c.length>2?(k-h+1)%c.length:1;if(Math.abs(n)>=1){g=(n>0)?0:1}g=!!g^!!d.revers;var i=(d.revers?-1:1)+"00%";var j=e("ul",b);var l=document.all?0:"0%";var f=e(c.get(g?k:h)).clone().css({position:"absolute","z-index":4,width:"100%",top:0,left:((g?i:l))});if(g){f.appendTo(b)}else{f.insertAfter(j)}if(!g){e("ul",b).css({left:-k+"00%"})}f.animate({left:(g?l:i)},d.duration,"easeInOutExpo",function(){if(g){j.css({left:-k+"00%"})}e(this).remove()});return k}};// -----------------------------------------------------------------------------------
 // http://wowslider.com/
 // JavaScript Wow Slider is a free software that helps you easily generate delicious 
 // slideshows with gorgeous transition effects, in a few clicks without writing a single line of code.
@@ -18,4 +18,4 @@ function ws_basic_linear(c,a,b){var d=jQuery;var e=d("<div></div>").css({positio
 // Obfuscated by Javascript Obfuscator
 // http://javascript-source.com
 //***********************************************
-jQuery("#wowslider-container1").wowSlider({effect:"basic_linear",prev:"",next:"",duration:20*100,delay:20*100,width:960,height:360,autoPlay:true,stopOnHover:false,loop:false,bullets:true,caption:true,captionEffect:"slide",controls:true,logo:"engine1/loading.gif",onBeforeStep:0,images:0});
+jQuery("#wowslider-container1").wowSlider({effect:"stack",prev:"",next:"",duration:20*100,delay:50*100,width:960,height:360,autoPlay:true,stopOnHover:false,loop:false,bullets:true,caption:true,captionEffect:"slide",controls:true,logo:"engine1/loading.gif",onBeforeStep:0,images:0});
