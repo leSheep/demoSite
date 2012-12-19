@@ -5,7 +5,7 @@ if(!isset($selectedSite)) {
 } else {
 ?>
 <?php 
-$Mail = "michaelbernard89@gmail.com"; 
+$Mail = "wiesbaden-pelzfrei-orga@lists.riseup.net"; 
 $Betreff = "WPF: kontaktfeld"; 
 $Name = "WiesbadenPelzFrei-OrgaTeam =)"; 
 //$Homepage = ""; 
