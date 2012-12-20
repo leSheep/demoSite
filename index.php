@@ -76,6 +76,11 @@
 ?>
 
 </div>
+
+<div style="clear:both; padding-top:50px">
+<center><a href="http://voilib.de/impressum" target="_blank"> Impressum </a></center>
+</div>
+
 </body>
 </html>
 
