@@ -6,7 +6,7 @@ if(!isset($selectedSite)) {
 ?>
 
 <h1> 
-	<p>Samstag, 26.1.2013 um 13:00!</p> 
+	<p style="font-size:140%">Samstag, 26.1.2013 um 13:00!</p> 
 	<p>Treffpunkt: Hauptbahnhof - Infostände ab 10:30 Uhr</p>
 	
 </h1>
@@ -23,7 +23,7 @@ if(!isset($selectedSite)) {
 
 <li><img src="slideshow/data1/images/dsc_0130.jpg" alt="" title="" id="wows1_0"/></li>
 <li><img src="slideshow/data1/images/img_5158.jpg" alt="" title="" id="wows1_1"/></li>
-<li><img src="slideshow/data1/images/img_5208.jpg" alt="" title="" id="wows1_2"/></li>
+<!--<li><img src="slideshow/data1/images/img_5208.jpg" alt="" title="" id="wows1_2"/></li> -->
 <li><img src="slideshow/data1/images/img_5162.jpg" alt="" title="" id="wows1_3"/></li>
 <li><img src="slideshow/data1/images/img_5171.jpg" alt="" title="" id="wows1_4"/></li>
 <li><img src="slideshow/data1/images/img_5167.jpg" alt="" title="" id="wows1_5"/></li>
@@ -33,10 +33,10 @@ if(!isset($selectedSite)) {
 <li><img src="slideshow/data1/images/img_5180.jpg" alt="" title="" id="wows1_8"/></li>
 <li><img src="slideshow/data1/images/img_5184.jpg" alt="" title="" id="wows1_9"/></li>
 <li><img src="slideshow/data1/images/img_5188.jpg" alt="" title="" id="wows1_10"/></li>
-<li><img src="slideshow/data1/images/img_5189.jpg" alt="" title="" id="wows1_11"/></li>
+<!--<li><img src="slideshow/data1/images/img_5189.jpg" alt="" title="" id="wows1_11"/></li>-->
 <li><img src="slideshow/data1/images/img_5192.jpg" alt="" title="" id="wows1_12"/></li>
 <li><img src="slideshow/data1/images/dsc_0096.jpg" alt="" title="" id="wows1_13"/></li>
-<li><img src="slideshow/data1/images/img_5194.jpg" alt="" title="" id="wows1_14"/></li>
+<!--<li><img src="slideshow/data1/images/img_5194.jpg" alt="" title="" id="wows1_14"/></li>-->
 <li><img src="slideshow/data1/images/bild_183_kopie.jpg" alt="" title="" id="wows1_15"/></li>
 <li><img src="slideshow/data1/images/img_5198.jpg" alt="" title="" id="wows1_16"/></li>
 <li><img src="slideshow/data1/images/img_5199.jpg" alt="" title="" id="wows1_17"/></li>
@@ -50,7 +50,7 @@ if(!isset($selectedSite)) {
 
 <a href="#" title=""><img src="slideshow/data1/tooltips/dsc_0130.jpg" alt=""/>1</a>
 <a href="#" title=""><img src="slideshow/data1/tooltips/img_5158.jpg" alt=""/>2</a>
-<a href="#" title=""><img src="slideshow/data1/tooltips/img_5208.jpg" alt=""/>3</a>
+<!--<a href="#" title=""><img src="slideshow/data1/tooltips/img_5208.jpg" alt=""/>3</a>-->
 <a href="#" title=""><img src="slideshow/data1/tooltips/img_5162.jpg" alt=""/>4</a>
 <a href="#" title=""><img src="slideshow/data1/tooltips/img_5171.jpg" alt=""/>5</a>
 <a href="#" title=""><img src="slideshow/data1/tooltips/img_5167.jpg" alt=""/>6</a>
@@ -60,10 +60,10 @@ if(!isset($selectedSite)) {
 
 <a href="#" title=""><img src="slideshow/data1/tooltips/img_5184.jpg" alt=""/>10</a>
 <a href="#" title=""><img src="slideshow/data1/tooltips/img_5188.jpg" alt=""/>11</a>
-<a href="#" title=""><img src="slideshow/data1/tooltips/img_5189.jpg" alt=""/>12</a>
+<!--<a href="#" title=""><img src="slideshow/data1/tooltips/img_5189.jpg" alt=""/>12</a>-->
 <a href="#" title=""><img src="slideshow/data1/tooltips/img_5192.jpg" alt=""/>13</a>
 <a href="#" title=""><img src="slideshow/data1/tooltips/dsc_0096.jpg" alt=""/>14</a>
-<a href="#" title=""><img src="slideshow/data1/tooltips/img_5194.jpg" alt=""/>15</a>
+<!--<a href="#" title=""><img src="slideshow/data1/tooltips/img_5194.jpg" alt=""/>15</a>-->
 <a href="#" title=""><img src="slideshow/data1/tooltips/bild_183_kopie.jpg" alt=""/>16</a>
 <a href="#" title=""><img src="slideshow/data1/tooltips/img_5198.jpg" alt=""/>17</a>
 <a href="#" title=""><img src="slideshow/data1/tooltips/img_5199.jpg" alt=""/>18</a>

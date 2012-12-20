@@ -56,10 +56,10 @@
 	
 	<!-- linkedIn -->
 	<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-	<script type="IN/Share" data-url="http://wpf.veganseite.de" data-counter="right"></script>
+	<script type="IN/Share" data-url="http://wpf.tierrechtsdemo.de" data-counter="right"></script>
 	
 	<!-- fb -->
-	<div class="fb-like" data-href="http://wpf.veganseite.de" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false" data-font="arial"></div>
+	<div class="fb-like" data-href="http://wpf.tierrechtsdemo.de" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false" data-font="arial"></div>
 	
 	
 </div></div>
