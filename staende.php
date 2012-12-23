@@ -12,7 +12,7 @@ if(!isset($selectedSite)) {
 <p> Folgende Stände werden dabei sein: </p>
 <ul>
 <li> <a href="http://www.animalequality.de/"> Animal Equality </a> </li>
-<li> <a href="http://www.ariwa.org/"> Animal Rights Watch </a> (ehemals die Tierfreunde e.V.) </li>
+<li> <a href="http://www.ariwa.org/"> Animal Rights Watch </a> </li>
 <li> <a href="http://www.tierbefreier.de"> die tierbefreier - Ortsgruppe Rhein-Neckar</a> </li>
 <li> <a href="http://www.frankfurt-vegan.de/"> Frankfurt Vegan </a> </li>
 <li> <a href="http://www.tvg-saar-vegan.de/"> Menschen für Tierrechte - Tierversuchsgegner Saar </a> </li>
