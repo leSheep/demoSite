@@ -11,6 +11,7 @@ if(!isset($selectedSite)) {
 
 <p> Folgende Stände werden dabei sein: </p>
 <ul>
+<li> <a href="http://www.animalequality.de/"> Animal Equality </a> </li>
 <li> <a href="http://www.tierbefreier.de"> die tierbefreier - Ortsgruppe Rhein-Neckar</a> </li>
 <li> <a href="http://www.die-tierfreunde.de/"> die Tierfreunde </a> </li>
 <li> <a href="http://www.frankfurt-vegan.de/"> Frankfurt Vegan </a> </li>
@@ -20,7 +21,6 @@ if(!isset($selectedSite)) {
 <li> <a href="http://ti-bo.org/"> TiBo - Tierrechtsgruppe Bonn </a> </li>
 <li> <a href="http://www.veganlife.lu/"> vegan life </a> </li>
 <li> <a href="http://voilib.de/"> Voice of Liberation </a> </li>
-<li> <a href=""> </a> </li>
 <li> <a href=""> </a> </li>
 
 </ul>
