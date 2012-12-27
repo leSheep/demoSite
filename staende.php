@@ -13,6 +13,7 @@ if(!isset($selectedSite)) {
 <ul>
 <li> <a href="http://www.animalequality.de/"> Animal Equality </a> </li>
 <li> <a href="http://www.ariwa.org/"> Animal Rights Watch </a> </li>
+<li> <a href="http://www.biteback.org/"> Bite Back </a> </li>
 <li> <a href="http://www.tierbefreier.de"> die tierbefreier - Ortsgruppe Rhein-Neckar</a> </li>
 <li> <a href="http://www.frankfurt-vegan.de/"> Frankfurt Vegan </a> </li>
 <li> <a href="http://www.tvg-saar-vegan.de/"> Menschen für Tierrechte - Tierversuchsgegner Saar </a> </li>
@@ -21,7 +22,6 @@ if(!isset($selectedSite)) {
 <li> <a href="http://ti-bo.org/"> TiBo - Tierrechtsgruppe Bonn </a> </li>
 <li> <a href="http://www.veganlife.lu/"> vegan life </a> </li>
 <li> <a href="http://voilib.de/"> Voice of Liberation </a> </li>
-<li> <a href=""> </a> </li>
 
 </ul>
 <?php
