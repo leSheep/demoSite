@@ -21,6 +21,7 @@ if(!isset($selectedSite)) {
 <li> <a href="http://de.seashepherd.org/"> Sea Shepherd </a> </li>
 <li> <a href="http://ti-bo.org/"> TiBo - Tierrechtsgruppe Bonn </a> </li>
 <li> <a href="http://www.veganlife.lu/"> vegan life </a> </li>
+<li> <a href="http://www.vegan-total.de"> Vegan-Total  </a> </li>
 <li> <a href="http://voilib.de/"> Voice of Liberation </a> </li>
 
 </ul>
