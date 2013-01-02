@@ -34,9 +34,9 @@ $Name = "WiesbadenPelzFrei-OrgaTeam =)";
 <p>Die Demo wird von folgenden Tierrechtsgruppen organisiert:</p>
 
    <ul>	
-    <li><a href="http://www.voilib.de">Voice of Liberation</a></li>
+    <li> <a href="http://www.ariwa.org/"> Animal Rights Watch </a> </li>
     <li><a href="http://www.frankfurt-vegan.de">Frankfurt Vegan</a></li>
-    <li><a href="http://www.die-tierfreunde.de">Die Tierfreunde e.V.</a></li>
+    <li><a href="http://www.voilib.de">Voice of Liberation</a></li>
    </ul>
 <p>Für Nachrichten an uns schreibt einfach eine <a href="mailto:wiesbaden-pelzfrei-orga@lists.riseup.net">E-Mail</a> oder nutzt das Kontaktfeld. Wir sind für Fragen oder Feedback jederzeit dankbar!</p>
 
