@@ -16,6 +16,7 @@ if(!isset($selectedSite)) {
 <li> <a href="http://www.biteback.org/"> Bite Back </a> </li>
 <li> <a href="http://www.tierbefreier.de"> die tierbefreier - Ortsgruppe Rhein-Neckar</a> </li>
 <li> <a href="http://www.frankfurt-vegan.de/"> Frankfurt Vegan </a> </li>
+<li> <a href="http://www.lush-shop.de/"> Lush Wiesbaden</a> </li>
 <li> <a href="http://www.tvg-saar-vegan.de/"> Menschen für Tierrechte - Tierversuchsgegner Saar </a> </li>
 <li> <a href="http://www.saveanimals.lu/"> Save Animals </a> </li>
 <li> <a href="http://de.seashepherd.org/"> Sea Shepherd </a> </li>

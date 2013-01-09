@@ -8,7 +8,7 @@ if(!isset($selectedSite)) {
 <h1> After-Demo-Party </h1>
 
 <p>Nach der Demo könnt ihr euch auf der Soliparty danach im Sabot aufwärmen.
-Es wird dort ein Konzert mit <a href="http://4paws.blogsport.de/">4 Paws</a>, sowie veganen Leckereien geben. Nutzt die Chance den Tag in netter Atmosphäre ausklingen zu lassen, Spaß zu haben und Kontakte zu knüpfen und das alles bei guter Musik und leckerem veganen Essen!</p>
+Es wird dort ein Konzert mit <a href="http://4paws.blogsport.de/">4 Paws</a> und <a href="https://soundcloud.com/bea-lo-fi"> Beatrice Bacher </a>, sowie veganen Leckereien geben. Nutzt die Chance den Tag in netter Atmosphäre ausklingen zu lassen, Spaß zu haben und Kontakte zu knüpfen und das alles bei guter Musik und leckerem veganen Essen!</p>
 
 <p> Das Sabot ist ca. 1,5 km zu Fuß vom Wiesbadener Hauptbahnhof entfernt.</p>
 
