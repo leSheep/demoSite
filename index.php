@@ -39,7 +39,7 @@
 	  		<li><a href="selbstverstaendnis.php">SELBSTVERSTÄNDNIS</a></li>
 	  		<li><a href="anfahrt.php">ANFAHRT</a></li>
 	  		<li><a href="contact.php">KONTAKT</a></li>
-	  		<li><a href="downloads.php">DOWNLOADS</a></li>
+	  		<li><a href="downloads.php">WERBUNG</a></li>
 		</ul>
 	</div>
 	

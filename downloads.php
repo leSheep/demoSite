@@ -5,7 +5,14 @@ if(!isset($selectedSite)) {
 } else {
 ?>
 
-<h1> Downloads </h1>
+<h1> Werbung </h1>
+
+<h2 style="text-align:left"> Mobi-Video</h2>
+<p> Schaut euch das Mobi-Video an und teilt es fleißig, damit dadurch noch viel mehr Leute zur Demo kommen und ihre Meinung vertreten!</p>
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/TvlPGtXd0D8?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+
+<br />
 
 <h2 style="text-align:left">Eigener Banner</h2>
 <p> Unseren Banner könnt ihr auf eurer Website einfügen um so zur Demo aufzurufen. Dazu müsst ihr einfach folgenden Code an der gewünschten Stelle einfügen:</p>
