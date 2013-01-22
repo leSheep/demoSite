@@ -28,6 +28,8 @@ Es wird dort ein Konzert mit <a href="http://4paws.blogsport.de/">4 Paws</a> und
 <p style="width: 35%;">Es gibt mehrere kostenlose Schlafmöglichkeiten in Wiesbaden und Umgebung. Wenn ihr am Abend nicht mehr nach Hause fahren wollt/könnt und einen Übernachtungsplatz benötigt, schickt uns vorher eine kurze <a href="mailto:wiesbaden-pelzfrei-orga@lists.riseup.net">E-Mail</a> damit wir bescheid wissen und entsprechend planen können.</p></p>
 </div>
 
+<p> Ab 19 Uhr wird sich das Projekt <a href="bluetepunkt.noblogs.org"> Sozialer Blütepunkt </a> in einem Raum im sabot vorstellen. Bei diesem Projekt handelt es sich um ein Wohnprojekt welches ein herrschaftsfreien und veganen Raum bieten will. Für alle die dies interessiert und die möglicherweise bei diesem Projekt mitmachen wollen, seit ab 19 Uhr im Sabot. In welchem Raum es dort stattfindet, werdet ihr vor Ort genauer erfahren können.</p>
+
 <?php
 }
 ?>
