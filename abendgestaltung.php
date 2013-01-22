@@ -7,10 +7,12 @@ if(!isset($selectedSite)) {
 
 <h1> After-Demo-Party </h1>
 
-<p>Nach der Demo könnt ihr euch auf der Soliparty danach im Sabot aufwärmen.
+<p>Nach der Demo könnt ihr euch auf der Soliparty danach ab 20 Uhr im Sabot aufwärmen.
 Es wird dort ein Konzert mit <a href="http://4paws.blogsport.de/">4 Paws</a> und <a href="https://soundcloud.com/bea-lo-fi"> Beatrice Bacher </a>, sowie veganen Leckereien geben. Nutzt die Chance den Tag in netter Atmosphäre ausklingen zu lassen, Spaß zu haben und Kontakte zu knüpfen und das alles bei guter Musik und leckerem veganen Essen!</p>
 
 <p> Das Sabot ist ca. 1,5 km zu Fuß vom Wiesbadener Hauptbahnhof entfernt.</p>
+
+<p> Ab 19 Uhr wird sich das Projekt <a href="bluetepunkt.noblogs.org"> Sozialer Blütepunkt </a> in einem Raum im Sabot vorstellen. Bei diesem Projekt handelt es sich um ein Wohnprojekt welches ein herrschaftsfreien und veganen Raum bieten will. Für alle die dies interessiert und die möglicherweise bei diesem Projekt mitmachen wollen, seit ab 19 Uhr im Sabot. In welchem Raum es dort stattfindet, werdet ihr vor Ort genauer erfahren können.</p>
 
 <div style="padding-top:45px;">
 <p style="float:right;">
@@ -27,8 +29,6 @@ Es wird dort ein Konzert mit <a href="http://4paws.blogsport.de/">4 Paws</a> und
 <h2 style="text-align:left">Schlafplätze</h2>
 <p style="width: 35%;">Es gibt mehrere kostenlose Schlafmöglichkeiten in Wiesbaden und Umgebung. Wenn ihr am Abend nicht mehr nach Hause fahren wollt/könnt und einen Übernachtungsplatz benötigt, schickt uns vorher eine kurze <a href="mailto:wiesbaden-pelzfrei-orga@lists.riseup.net">E-Mail</a> damit wir bescheid wissen und entsprechend planen können.</p></p>
 </div>
-
-<p> Ab 19 Uhr wird sich das Projekt <a href="bluetepunkt.noblogs.org"> Sozialer Blütepunkt </a> in einem Raum im sabot vorstellen. Bei diesem Projekt handelt es sich um ein Wohnprojekt welches ein herrschaftsfreien und veganen Raum bieten will. Für alle die dies interessiert und die möglicherweise bei diesem Projekt mitmachen wollen, seit ab 19 Uhr im Sabot. In welchem Raum es dort stattfindet, werdet ihr vor Ort genauer erfahren können.</p>
 
 <?php
 }
